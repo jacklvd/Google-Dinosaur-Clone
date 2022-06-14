@@ -5,10 +5,10 @@ Build with Python and Pygame
 Open the '''cmd''' or terminal
 
 ## 1/ Clone the code
-'''git clone https://github.com/jacklvd/googledinosaur.git '''
+```git clone https://github.com/jacklvd/googledinosaur.git```
 
 ## 2/ Install Pygame
-'''pip install pygame'''
+```pip install pygame```
 
 ## 3/ Run program
-'''python ProgramMain.py'''
+```python ProgramMain.py```
